@@ -1,5 +1,5 @@
 ---
-title: About
+title: 'About'
 ---
 
 This is an about page about this awesome site. 
